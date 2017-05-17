@@ -2,3 +2,6 @@ sceneSetups:
 - path: Assets/lpmenu.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/lielaispraktiskais_menu.unity
+  isLoaded: 0
+  isActive: 0
